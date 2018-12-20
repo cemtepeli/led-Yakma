@@ -1,0 +1,78 @@
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Controls.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Fuzzy.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Genetic.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Imaging.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.MachineLearning.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Math.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Neuro.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.Lego.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.Surveyor.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.TeRK.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.Kinect.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.VFW.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.Ximea.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Vision.dll
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\IPPrototyper.exe
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Controls.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Fuzzy.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Genetic.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Imaging.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.MachineLearning.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Math.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Neuro.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.Kinect.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.VFW.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.Ximea.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Vision.xml
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\dange\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Controls.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Fuzzy.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Genetic.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Imaging.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.MachineLearning.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Math.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Neuro.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.VFW.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\AForge.Vision.xml
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\dange\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
